@@ -74,5 +74,9 @@
     "js/browser",
     "js/release",
     "LICENSE"
-  ]
+  ],
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
+  }
 }
